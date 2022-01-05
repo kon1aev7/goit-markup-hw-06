@@ -901,10 +901,6 @@ body {
   overflow: hidden;
 }
 
-.modal-label:last-of-type:focus-within {
-  outline: 1px solid var(--accent-color);
-}
-
 .checkbox:checked + .modal-icon-check {
   margin-right: 7px;
   width: 16px;
